@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D85A9</color>
+    <color name="colorPrimaryDark">#316BA6</color>
+    <color name="colorAccent">#F2F4F7</color>
+    <color name="homeBackground">#F2F4F7</color>
+    <color name="yellowColor">#EEA900</color>
+    <color name="redColor">#FFA8A3</color>
+    <color name="purpleColor">#BC86F5</color>
+    <color name="blueColor">#6AF0E2</color>
+    <color name="nudeBlueColor">#93DDEB</color>
+    <color name="overViewTextColor">#4090B0</color>
+    <color name="transactionCardBg">#FFFDF8</color>
+    <color name="eShopCardBg">#F9F5FE</color>
+    <color name="paymentsCardBg">#FAFEFE</color>
+    <color name="marketingCardBg">#F4FCF5</color>
+
+    <color name="transactionImageBg">#FFFBFA</color>
+    <color name="eShopImageBg">#FDFAFE</color>
+    <color name="paymentImageBg">#FAFEFE</color>
+    <color name="marketingImageBg">#F9FEFA</color>
+    <color name="homeCardTitleColor">#040334</color>
+
+    <color name="whiteColor">#FFFF</color>
+    <color name="darkColor">#353535</color>
+    <color name="blackColor">#000</color>
+    <color name="greyColor">#707070</color>
+    <color name="categoryColor">#616263</color>
+    <color name="outOfStockColor">#616263</color>
+    <color name="fragmentTitleColor">#3B485A</color>
+    <color name="shopBackgroundColor">#F2F4F7</color>
+</resources>
